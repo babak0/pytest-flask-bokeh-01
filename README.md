@@ -1,3 +1,3 @@
 # pytest-flask-bokeh-01
-test modifying local git
+test conflict from local
 another test modification on cloud
